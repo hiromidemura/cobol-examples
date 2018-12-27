@@ -1,3 +1,7 @@
+*> The balance line algorithm is a widely used technique specially in >*
+*> mainframe programs. It consists in matching two or more sequential >*
+*> files to update or verify records.                                 >*
+      
 IDENTIFICATION DIVISION.
 PROGRAM-ID. BALANCE-LINE.
 DATA DIVISION.
